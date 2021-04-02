@@ -8,12 +8,15 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link" href="/">Home</a>
+          <%-- Welcome to Home page--%>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/login">Login</a>
+          <%-- Welcome to Login page--%>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/register">Register</a>
+          <%-- Welcome to register page--%>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/additem">Add Item</a>

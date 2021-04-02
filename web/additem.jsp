@@ -15,6 +15,7 @@
         String success = request.getParameter("success");
       if(success!=null){
       %>
+      <%-- Here we use bootstrap alert to inform our user--%>
       <div class="alert alert-success alert-dismissible fade show" role="alert">
         Item added successfully!
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
